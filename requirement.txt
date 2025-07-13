@@ -6,4 +6,4 @@ langchain-community
 langchain-openai
 chromadb
 python-dotenv
-langchain_text_splitters
+langchain-text-splitters
